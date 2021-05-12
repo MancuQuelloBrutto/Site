@@ -1,0 +1,106 @@
+body{
+    text-align: center;
+}
+.backGround{
+    width: 100vw;
+    height: 100vh;
+    position: absolute;
+    left: 0px;
+    top: 0px;
+}
+.logo{
+    margin-top: 50px;
+    position: relative;
+}
+.logo img{
+    width: 10vw;
+}
+.bottoni{
+    text-align: center;
+    column-count: 1;
+}
+.instagrama{
+    text-align: center;
+}
+.instagram{
+    margin-top: 100px;
+    width: 30vw;
+    height: 7vh;
+    border-radius: 10px;
+    outline: none;
+    border: 2px solid white;
+    cursor: pointer;
+    background: none;
+    position: relative;
+    transition: 0.8s;
+}
+.instagram:hover{
+    transition: 0.8s;
+    background-color: white;
+}
+.instagramIcon{
+    margin-top: 2px;
+}
+.discorda{
+    text-align: center;
+}
+.discord{
+    margin-top: 50px;
+    width: 30vw;
+    height: 7vh;
+    border-radius: 10px;
+    outline: none;
+    border: 2px solid white;
+    cursor: pointer;
+    background: none;
+    position: relative;
+}
+.discord:hover{
+    transition: 0.8s;
+    background-color: white;
+}
+.discordIcon{
+    margin-top: 2.28px;
+}
+.steama{
+    text-align: center;
+}
+.steam{
+    margin-top: 50px;
+    width: 30vw;
+    height: 7vh;
+    border-radius: 10px;
+    outline: none;
+    border: 2px solid white;
+    cursor: pointer;
+    background: none;
+    position: relative;
+}
+.steam:hover{
+    transition: 0.8s;
+    background-color: white;
+}
+.controllerIcon{
+    margin-top: 2.28px;
+}
+.donazionia{
+    text-align: center;
+}
+.donazioni{
+    margin-top: 50px;
+    width: 30vw;
+    height: 7vh;
+    border-radius: 10px;
+    outline: none;
+    border: 2px solid white;
+    cursor: pointer;
+    background: none;
+    position: relative;
+}
+.donazioni:hover{
+    transition: 0.8s;
+    background-color: white;
+}
+.cashIcon{
+    margin-top: 2.28px;
+}
